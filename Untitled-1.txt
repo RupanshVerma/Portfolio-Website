@@ -1,0 +1,3 @@
+font-family: 'Courgette', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Tangerine', cursive;
