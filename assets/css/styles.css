@@ -946,7 +946,7 @@ img {
 .footer__title{
   font-size: var(--h1-font-size);
   margin-bottom: var(--mb-0-25);
-  font-family: 'Courgette', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 
 .footer__subtitle{
